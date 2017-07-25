@@ -1,0 +1,2 @@
+turtle_teleop
+-DCATKIN_DEVEL_PREFIX=/home/fj/ros/navmap/devel -DCMAKE_INSTALL_PREFIX=/home/fj/ros/navmap/install -G Unix Makefiles

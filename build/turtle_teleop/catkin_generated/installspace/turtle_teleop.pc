@@ -1,0 +1,8 @@
+prefix=/home/fj/ros/navmap/install
+
+Name: turtle_teleop
+Description: Description of turtle_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/fj/ros/navmap/install/lib 
+Requires: 
